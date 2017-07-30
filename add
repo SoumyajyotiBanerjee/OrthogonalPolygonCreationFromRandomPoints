@@ -1,0 +1,3 @@
+panel = new Grids(this);
+this.add(panel);
+panel.setVisible(true);
